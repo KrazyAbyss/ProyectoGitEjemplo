@@ -3,12 +3,12 @@
 public class holaMundo {
 	
 public static void imprimeSaludo() { 
-System.out.println(“Hei”);	
+System.out.println("Hei�");	
 }
 
 
 	public static void main(String[] args) {
-		System.out.println("Hello Mundo");
+		System.out.println("Saludos Mundo");
 
 	}
 
