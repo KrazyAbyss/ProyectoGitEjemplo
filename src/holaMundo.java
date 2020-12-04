@@ -8,7 +8,7 @@ System.out.println(“Hei”);
 
 
 	public static void main(String[] args) {
-		System.out.println("Hello Mundo");
+		System.out.println("Wola Mundo");
 
 	}
 
